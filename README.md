@@ -26,7 +26,7 @@ while working with this data I found some interesting outcomes.
 ### Project Insites:
 **I use two Algorithms for Feature Selection:**
 - PCA
-  **I use two Algorithms for Clustering**
+**I use two Algorithms for Clustering**
 - Kmeans
 - Hierarchical
 - PCA

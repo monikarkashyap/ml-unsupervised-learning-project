@@ -24,9 +24,9 @@ I analyse only the numerical columns and exclude categorical columns from my ana
 while working with this data I found some interesting outcomes.
 - Milk, Grocery and Detergents_Pape are most likly to be brought together.
 ### Project Insites:
-I use two Algorithms for Feature Selection:
+**I use two Algorithms for Feature Selection:**
 - PCA
-I use two Algorithms for Clustering
+  **I use two Algorithms for Clustering**
 - Kmeans
 - Hierarchical
 - PCA
